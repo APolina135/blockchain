@@ -1,0 +1,140 @@
+body {
+    font-family: sans-serif;
+    color: #2c4242;
+    background-image: linear-gradient(to top, #9ACD32,  LightSkyBlue,  #4169E1);
+}
+
+header {
+    font-family: sans-serif;
+    background-image: linear-gradient(to right, #80c2e5, white, #e1eaea);
+}
+
+.a {
+    text-decoration: none;
+    padding: 15px;
+    border-radius: 10px;
+    
+    background-color: rgb(198, 224, 234);
+    margin: 6px;
+    position: absolute;
+    top: 20px;
+    right: 50%;
+    font-size: 20px;
+    
+}
+
+.c {
+    text-decoration: none;
+    padding: 15px;
+    border-radius: 10px;
+    
+    background-color: rgb(201, 231, 244);
+    margin: 6px;
+    position: absolute;
+    top: 20px;
+    right: 32%;
+    font-size: 20px;
+    
+}
+
+.k {
+    
+    padding: 15px;
+    border-radius: 10px;
+    color: azure;
+    background-color: rgb(208, 234, 245);
+    margin: 6px;
+    position: absolute;
+    top: 20px;
+    right: 15%;
+    font-size: 20px;
+    text-decoration: none;
+    
+}
+
+.o {
+    
+    padding: 15px;
+    border-radius: 10px;
+    color: azure;
+    
+    background-color: rgb(213, 234, 242);
+    margin: 6px;
+    position: absolute;
+    top: 20px;
+    right: 5%;
+    font-size: 20px;
+    text-decoration: none;
+    
+}
+
+ .input {
+        margin: 30px;
+        background: none;
+        border: none;
+        outline: none;
+        max-width: 1000px;
+        padding: 10px 20px;
+        font-size: 26px;
+        border-radius: 9999px;
+        box-shadow: inset 2px 5px 10px rgb(27, 81, 75);
+        color: #0e3d66;
+        position: absolute;
+        top: 0px;
+        left: 12%;
+    
+      }
+
+ a:hover {
+         
+        scale: 2;
+        color: #e6f7ff;
+        transition: 0.5s ease-out;
+        font-size: 30;
+        text-decoration: none;
+    
+    }
+
+h1 {
+    font-family: Arial Narrow, sans-serif;
+    font-size: 40;
+    position: absolute;
+    top: 0%;
+    left: 1%;
+}
+
+.t1 {
+    font-family:Trebuchet MS, sans-serif;
+    font-size: 25px;
+    position: absolute;
+    top: 15%;
+    left: 1%;
+    text-align: left;
+    width: 45%;
+    margin-left: 0;
+    border-radius: 10px;
+    padding-left: 10px;
+    
+    
+    font-stretch: narrower;
+    background-color: rgb(226, 234, 237);
+    display: flex; 
+    
+    
+
+    
+}
+
+.v {
+    position: absolute;
+    top: 57%;
+    left: 1%;
+}
+
+.im1 {
+    position: absolute;
+    left: 47%;
+    top: 15%;
+    
+
+}
