@@ -19,7 +19,7 @@ header {
     position: absolute;
     top: 20px;
     right: 50%;
-    font-size: 20px;
+    font-size: 10px;
     
 }
 
@@ -33,7 +33,7 @@ header {
     position: absolute;
     top: 20px;
     right: 32%;
-    font-size: 20px;
+    font-size: 10px;
     
 }
 
@@ -47,7 +47,7 @@ header {
     position: absolute;
     top: 20px;
     right: 15%;
-    font-size: 20px;
+    font-size: 10px;
     text-decoration: none;
     
 }
@@ -63,7 +63,7 @@ header {
     position: absolute;
     top: 20px;
     right: 5%;
-    font-size: 20px;
+    font-size: 10px;
     text-decoration: none;
     
 }
@@ -75,7 +75,7 @@ header {
         outline: none;
         max-width: 1000px;
         padding: 10px 20px;
-        font-size: 26px;
+        font-size: 16px;
         border-radius: 9999px;
         box-shadow: inset 2px 5px 10px rgb(27, 81, 75);
         color: #0e3d66;
@@ -90,14 +90,14 @@ header {
         scale: 2;
         color: #e6f7ff;
         transition: 0.5s ease-out;
-        font-size: 30;
+        font-size: 20;
         text-decoration: none;
     
     }
 
 h1 {
     font-family: Arial Narrow, sans-serif;
-    font-size: 40;
+    font-size: 30;
     position: absolute;
     top: 0%;
     left: 1%;
@@ -105,7 +105,7 @@ h1 {
 
 .t1 {
     font-family:Trebuchet MS, sans-serif;
-    font-size: 25px;
+    font-size: 15px;
     position: absolute;
     top: 15%;
     left: 1%;
@@ -148,7 +148,7 @@ h1 {
 
 .t2 {
     font-family:Trebuchet MS, sans-serif;
-    font-size: 25px;
+    font-size: 15px;
     position: absolute;
     top: 15%;
     left: 48%;
